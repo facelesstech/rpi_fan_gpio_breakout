@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name pi_gpio_breakout_fan-rescue)(type Legacy)(uri ${KIPRJMOD}/pi_gpio_breakout_fan-rescue.lib)(options "")(descr ""))
+)
